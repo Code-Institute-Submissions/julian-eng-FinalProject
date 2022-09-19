@@ -1,0 +1,6 @@
+[15-Sep-2022 00:30:17 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[15-Sep-2022 05:58:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/webfeed/ipht.in/history-website/wp-content/themes/vinyl-news-mag/inc/customizer-functions.php on line 68
+[15-Sep-2022 05:58:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/webfeed/ipht.in/history-website/wp-content/themes/vinyl-news-mag/inc/customizer-functions.php on line 68
+[15-Sep-2022 05:58:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/webfeed/ipht.in/history-website/wp-content/themes/vinyl-news-mag/inc/customizer-functions.php on line 68
+[15-Sep-2022 05:58:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/webfeed/ipht.in/history-website/wp-content/themes/vinyl-news-mag/inc/customizer-functions.php on line 68
+[15-Sep-2022 05:58:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/webfeed/ipht.in/history-website/wp-content/themes/vinyl-news-mag/inc/customizer-functions.php on line 68
